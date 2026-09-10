@@ -1,0 +1,37 @@
+event_id,timestamp,environment,service,metric_name,metric_value,unit,source,data_quality,freshness_check,dependency_check,edge_case_test,decision_supported,owner
+ML23-001,2026-09-08 09:00:00,production,application_api,events_processed,935.0,events,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Engineer
+ML23-002,2026-09-08 09:20:00,production,document_service,success_rate_pct,98.1,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,MLOps
+ML23-003,2026-09-08 09:40:00,production,analytics_pipeline,data_freshness_min,5.1,minutes,validated_event_stream,PASS,PASS,PASS,PASS,YES,Product
+ML23-004,2026-09-08 10:00:00,production,dashboard,error_rate_pct,0.5,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Analyst
+ML23-005,2026-09-08 10:20:00,production,application_api,events_processed,1075.0,events,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Engineer
+ML23-006,2026-09-08 10:40:00,production,document_service,success_rate_pct,97.65,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,MLOps
+ML23-007,2026-09-08 11:00:00,production,analytics_pipeline,data_freshness_min,5.1,minutes,validated_event_stream,PASS,PASS,PASS,PASS,YES,Product
+ML23-008,2026-09-08 11:20:00,production,dashboard,error_rate_pct,0.5,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Analyst
+ML23-009,2026-09-08 11:40:00,production,application_api,events_processed,935.0,events,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Engineer
+ML23-010,2026-09-08 12:00:00,production,document_service,success_rate_pct,97.2,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,MLOps
+ML23-011,2026-09-08 12:20:00,production,analytics_pipeline,data_freshness_min,5.1,minutes,validated_event_stream,PASS,PASS,PASS,PASS,YES,Product
+ML23-012,2026-09-08 12:40:00,production,dashboard,error_rate_pct,0.5,percent,validated_event_stream,PASS,PASS,PASS,HANDLED,YES,Data Analyst
+ML23-013,2026-09-08 13:00:00,production,application_api,events_processed,1075.0,events,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Engineer
+ML23-014,2026-09-08 13:20:00,production,document_service,success_rate_pct,99.0,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,MLOps
+ML23-015,2026-09-08 13:40:00,production,analytics_pipeline,data_freshness_min,5.1,minutes,validated_event_stream,PASS,PASS,PASS,PASS,YES,Product
+ML23-016,2026-09-08 14:00:00,production,dashboard,error_rate_pct,0.5,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Analyst
+ML23-017,2026-09-08 14:20:00,production,application_api,events_processed,935.0,events,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Engineer
+ML23-018,2026-09-08 14:40:00,production,document_service,success_rate_pct,98.55,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,MLOps
+ML23-019,2026-09-08 15:00:00,production,analytics_pipeline,data_freshness_min,5.1,minutes,validated_event_stream,PASS,PASS,PASS,PASS,YES,Product
+ML23-020,2026-09-08 15:20:00,production,dashboard,error_rate_pct,0.5,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Analyst
+ML23-021,2026-09-08 15:40:00,production,application_api,events_processed,1075.0,events,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Engineer
+ML23-022,2026-09-08 16:00:00,production,document_service,success_rate_pct,98.1,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,MLOps
+ML23-023,2026-09-08 16:20:00,production,analytics_pipeline,data_freshness_min,5.1,minutes,validated_event_stream,PASS,PASS,PASS,PASS,YES,Product
+ML23-024,2026-09-08 16:40:00,production,dashboard,error_rate_pct,0.5,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Analyst
+ML23-025,2026-09-08 17:00:00,production,application_api,events_processed,935.0,events,validated_event_stream,PASS,PASS,PASS,HANDLED,YES,Data Engineer
+ML23-026,2026-09-08 17:20:00,production,document_service,success_rate_pct,97.65,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,MLOps
+ML23-027,2026-09-08 17:40:00,production,analytics_pipeline,data_freshness_min,5.1,minutes,validated_event_stream,PASS,PASS,PASS,PASS,YES,Product
+ML23-028,2026-09-08 18:00:00,production,dashboard,error_rate_pct,0.5,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Analyst
+ML23-029,2026-09-08 18:20:00,production,application_api,events_processed,1075.0,events,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Engineer
+ML23-030,2026-09-08 18:40:00,production,document_service,success_rate_pct,97.2,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,MLOps
+ML23-031,2026-09-08 19:00:00,production,analytics_pipeline,data_freshness_min,5.1,minutes,validated_event_stream,PASS,PASS,PASS,PASS,YES,Product
+ML23-032,2026-09-08 19:20:00,production,dashboard,error_rate_pct,0.5,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Analyst
+ML23-033,2026-09-08 19:40:00,production,application_api,events_processed,935.0,events,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Engineer
+ML23-034,2026-09-08 20:00:00,production,document_service,success_rate_pct,99.0,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,MLOps
+ML23-035,2026-09-08 20:20:00,production,analytics_pipeline,data_freshness_min,5.1,minutes,validated_event_stream,PASS,PASS,PASS,PASS,YES,Product
+ML23-036,2026-09-08 20:40:00,production,dashboard,error_rate_pct,0.5,percent,validated_event_stream,PASS,PASS,PASS,PASS,YES,Data Analyst
